@@ -1,0 +1,130 @@
+body{
+  background-color: #E3FDFD;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+.photo{
+  border-radius: 100%;
+  height: 350px;
+  margin: 50px auto;
+  border-color: #71C9CE;
+  border-width: 20px;
+  border-style: solid;
+}
+.icon{
+  float: left;
+  padding: 100px 100px 100px 300px;
+
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  color: #71C9CE;
+  font-size: 5.625rem;
+  padding-top: 200px;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #71C9CE;
+  font-size: 3rem;
+  font-weight: normal;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #71C9CE;
+  margin: 0 auto;
+  font-size: 2rem;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+  color: #71C9CE;
+  line-height: 2;
+  font-size: 1rem;
+}
+.top-container{
+  background-color: #CBF1F5;
+  position:relative;
+  padding-top: 100px;
+  height: 900px;
+  text-align: left;
+}
+hr{
+  border-style: dotted none none none;
+  width: 5%;
+  border-width: 10px;
+  border-color: #CBF1F5;
+  padding: 50px;
+}
+.BioPrintingPhoto{
+  border-radius: 100%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  border-style: solid;
+  border-color: #71C9CE;
+  border-width: 10px;
+
+}
+.web{
+  border-radius: 100%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  border-style: solid;
+  border-color: #71C9CE;
+  border-width: 10px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.head-three{
+  width: 50%;
+  margin: 50px auto;
+  line-height: 2;
+}
+.bottom-container{
+  background-color: #A6E3E9;
+  padding: 50px;
+}
+.footer-link{
+  margin-top: 50px;
+  padding: 30px;
+  font-family: 'Merriweather', serif;
+  text-decoration: none;
+  color: #71C9CE;
+  font-size: 20px;
+  font-weight: 100;
+}
+.btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #E3FDFD;
+   font-family: 'Merriweather', serif;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 20px;
+   background-color: #71C9CE;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+.contact-me{
+  padding: 50px;
+}
+.copyright{
+  color: #E3FDFD;
+  padding: 30px;
+  font-family: 'Merriweather', serif;
+}
+.footer-link:hover{
+  color: #E3FDFD;
+}
+.btn:hover{
+  background-color: #A6E3E9;
+}
